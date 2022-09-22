@@ -1,0 +1,15 @@
+1,Redbat Mens Grey Bomber,799.95,10,images//1.jpg
+2,Redbat Mens Black Jacket,899.95,5,images//2.jpg
+3,Adidas Womens Lilac t-shirt,299.95,9,images//3.jpg
+4,Vans womens Black Hoddy,749.95,6,images//4.jpg
+5,Adidas womens copper leggings,499.95,11,images//5.jpg
+6,Adidas womens black hoddy,699.95,15,images//6.jpg
+7,Adidas womens black t-shirt,299.95,10,images//7.jpg
+8,Jordan boys t-shirt,299.95,7,images//8.jpg
+9,Nike red t-shirt,229.95,12,images//9.jpg
+10,Jordan red hoodie,699.95,5,images//10.jpg
+11,Nike blue pants,649.95,4,images//11.jpg
+12,Jordan white t-shirt,349.95,7,images//12.jpg
+13,Nike blue t-shirt,299.95,7,images//13.jpg
+14,Jordan grey set,999.95,5,images//14.jpg
+15,Nike purple t-shirt,299.95,9,images//15.jpg
